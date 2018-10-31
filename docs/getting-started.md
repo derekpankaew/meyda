@@ -26,8 +26,7 @@ You can use these analyses in
 Meyda can calculate a wide variety of standard audio features, including
 loudness, spectral characteristics like brightness (spectral centroid) and
 noisiness (flatness) and much more. For a full list and explanation of the audio
-features Meyda supports, please see [our audio feature reference document]
-(https://github.com/meyda/meyda/blob/master/docs/audio-features.md).
+features Meyda supports, please see [our audio feature reference document](https://github.com/meyda/meyda/blob/master/docs/audio-features.md).
 
 ## How can you do these things with Meyda?
 Please have a look through the following tutorials for the one that closest
