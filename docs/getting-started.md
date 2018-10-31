@@ -33,9 +33,9 @@ features Meyda supports, please see [our audio feature reference document]
 Please have a look through the following tutorials for the one that closest
 matches your needs.
 
-* [Real-time audio feature extraction in the browser][online-web-audio]
-* [Offline audio feature extraction on the command line][offline-cli]
-* [Audio feature extraction in Node JS][offline-node]
+* [Real-time audio feature extraction in the browser][https://github.com/meyda/meyda/blob/master/docs/guides/online-web-audio.md]
+* [Offline audio feature extraction on the command line][https://github.com/meyda/meyda/blob/master/docs/guides/offline-cli.md]
+* [Audio feature extraction in Node JS][https://github.com/meyda/meyda/blob/master/docs/guides/offline-node.md]
 
 ## Need more help?
 Can't find a tutorial that matches up with what you're trying to do with Meyda?
