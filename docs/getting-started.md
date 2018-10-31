@@ -38,8 +38,7 @@ matches your needs.
 
 ## Need more help?
 Can't find a tutorial that matches up with what you're trying to do with Meyda?
-Not finding the documentation to be clear enough? Please open a [GitHub Issue]
-[new-issue], and we'll do our best to help.
+Not finding the documentation to be clear enough? Please open a [GitHub Issue](new-issue), and we'll do our best to help.
 
 [audio-features]: https://github.com/meyda/meyda/wiki/Audio-Features
 [new-issue]: https://github.com/meyda/meyda/issues/new
